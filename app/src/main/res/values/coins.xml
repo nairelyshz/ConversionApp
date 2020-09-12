@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="coins">
+        <item>ETH</item>
+        <item>BTC</item>
+        <item>PTR</item>
+        <item>BS</item>
+        <item>EURO</item>
+        <item>USD</item>
+    </string-array>
+
+</resources>

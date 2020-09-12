@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConversionApp</string>
+    <string name="title_conversion">Conversion</string>
+    <string name="title_qr">QR</string>
+    <string name="title_logout">Cerrar Sesión</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valor_inicial">0.0</string>
+
+</resources>
